@@ -38,7 +38,7 @@ Il codice segue un'architettura ispirata al pattern **MVC (Model-View-Controller
 - Il dataset di partenza (`gender_media_dataset_voci`) è considerato strutturalmente valido (non vengono sollevate eccezioni sulla sua struttura).
 - La registrazione di nuovi articoli avviene in modo controllato con validazione avanzata.
 
-**📌 **Feedback del tutor (Start2Impact)**  
+📌 **Feedback del tutor (Start2Impact)**  
 
 > *"Ho visionato il tuo progetto e hai fatto un ottimo lavoro: credo sia tra i progetti più completi e complessi mai ricevuti! Complimenti."*  
 > *"Sono davvero impressionato dell’impegno che hai dimostrato. Vedo un grande potenziale in te."*  
@@ -47,5 +47,3 @@ Il codice segue un'architettura ispirata al pattern **MVC (Model-View-Controller
 > *"ottimo lavoro!"*  
 
 > — *Andrea, Lead AI Engineer in Lundbeck – Start2Impact*
-
-**Repository:** [github.com/Francesca-Carrera/Python_Voci_SGE](https://github.com/Francesca-Carrera/Python_Voci_SGE)
