@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**File principale:** `FrancescaCarrera_Python_SGE.ipynb`
+**File principale:** `FrancescaCarrera_Python_ContentManagement.ipynb`
 
 **Obiettivo del progetto**  
 Un media brand chiamato "Voci", nato per riequilibrare la narrazione mediatica spesso dominata da prospettive maschili, aveva bisogno di uno strumento strutturato per organizzare e analizzare i contenuti pubblicati (testimonianze, approfondimenti, atti di attivismo).  
@@ -22,7 +22,7 @@ Questo progetto sviluppa un **Sistema di Gestione degli Elementi (SGE)** che con
 - `time` – sincronizzazione dell'output per una migliore esperienza utente.
 
 **Struttura del progetto**  
-Il progetto è contenuto in un unico file Jupyter Notebook (`FrancescaCarrera_Python.ipynb`), strutturato in sezioni logiche:
+Il progetto è contenuto in un unico file Jupyter Notebook (`FrancescaCarrera_Python_ContentManagement.ipynb`), strutturato in sezioni logiche:
 
 1. **Configurazione iniziale** – dataset `gender_media_dataset_voci` (dizionario con 11 categorie tematiche e oltre 40 articoli), importazioni, costanti simboliche.
 2. **Classi Model** – logica dei dati e operazioni tematiche (ricerca singola e multipla, visualizzazione, registrazione, analisi).
